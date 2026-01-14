@@ -17,3 +17,5 @@ Designed an asynchronous web scraping pipeline with Playwright, asyncio, and Pan
 * Normalized extracted show links using regex for consistency and deduplication.
 * Error resilience with retry logic to handle failed page loads gracefully.
 * Data structuring with Pandas, exporting results into a clean, analysis-ready CSV.
+
+[Click to view the IMDb scraper code](https://github.com/Chi-Matty/imdb_top_tv_shows/blob/main/imdb.py)
